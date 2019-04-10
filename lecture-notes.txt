@@ -1,0 +1,16 @@
+bioinsipire = kecerdasan meniru biologi
+
+otak 
+neuron punya cabang dendrit
+dendrit menerima rasa sakit lalu dikirim ke neuron lalu ke otak
+
+outputnya ke otak
+
+input - bobot(w) - neuron - output
+
+input layer - hidden layer -  output
+
+semua layer membentuk hubungan n-m
+
+nn punya target , jika target tidak terpenuhi maka balik lagi ke layer input
+
