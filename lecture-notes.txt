@@ -14,3 +14,41 @@ semua layer membentuk hubungan n-m
 
 nn punya target , jika target tidak terpenuhi maka balik lagi ke layer input
 
+deep learning vs neural network
+
+deep learning adalah pengembangan dari NN 
+1. layernya lebih banyak
+2. cara trainingnya lebih baru
+3. algoritma tergantung dari model NN 
+
+SOA nya masih belum memuaskan
+nilai optimalnya masih sulit dengan
+semakin banyak hidden layer
+
+training mulai dari input, N-hidden layer, output
+
+
+pada NN ditiap layer ada proses encode
+
+menghitung bobot(w) juga berbeda
+
+pada DL auto encoder bisa bermacam,
+arsitekturnya berbeda
+
+dengan DL melakukan feature extraction
+
+input heterogen (sound,text,video..)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
